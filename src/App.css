@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  min-height: 60vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: black;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+button {
+  background-color: #1876D0;
+  color: white;
+  padding: 14px 33px;
+  border-radius: 10px;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
+
+p.fizzbuzz {
+  font-size: 48px;
+  font-weight: 700;
+}
